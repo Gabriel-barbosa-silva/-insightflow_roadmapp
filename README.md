@@ -601,12 +601,12 @@ Se este projeto for executado de verdade, os próximos passos são:
 
 **Projeto Acadêmico:**
 - Disciplina: Gestão de Projetos
-- Instituição: [Unifecaf]
-- Professor: [PAULO LISBOA]
+- Instituição: Unifecaf
+- Professor: PAULO LISBOA
 
 **Autor:**
-- Nome: [Gabriel Barbosa Silva]
-- Email: [gabriel.barbosa.avlis@gmail.com]
+- Nome:[Gabriel Barbosa Silva
+- Email: gabriel.barbosa.avlis@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/gabriel-barbosa-silva/]
 - GitHub: [https://github.com/Gabriel-barbosa-silva]
 
