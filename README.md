@@ -605,10 +605,10 @@ Se este projeto for executado de verdade, os próximos passos são:
 - Professor: PAULO LISBOA
 
 **Autor:**
-- Nome:[Gabriel Barbosa Silva
+- Nome:Gabriel Barbosa Silva
 - Email: gabriel.barbosa.avlis@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/gabriel-barbosa-silva/]
-- GitHub: [https://github.com/Gabriel-barbosa-silva]
+- LinkedIn: https://www.linkedin.com/in/gabriel-barbosa-silva/
+- GitHub: https://github.com/Gabriel-barbosa-silva
 
 **Data:**
 - Criação: Fevereiro 2026
@@ -631,13 +631,7 @@ Este projeto foi desenvolvido para fins acadêmicos como trabalho da disciplina 
 
 ---
 
-## 🙏 Agradecimentos
 
-- **Professor [Paulo Lisboa ]** - Orientação e feedback durante o projeto
-- **PMI, Scrum.org, Lean Startup** - Frameworks e metodologias
-- **Anthropic, OpenAI** - Tecnologias de IA Generativa
-
----
 
 ## 📌 Notas Importantes
 
